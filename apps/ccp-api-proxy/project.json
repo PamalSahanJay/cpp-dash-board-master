@@ -1,0 +1,9 @@
+{
+  "name": "ccp-api-proxy",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/ccp-api-proxy",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project ccp-api-proxy --web",
+  "targets": {}
+}
